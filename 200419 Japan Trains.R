@@ -1,8 +1,11 @@
 install.packages("kokudosuuchi")
 library(pacman)
 p_load(kokudosuuchi,rvest,tidyverse,sf)
+<<<<<<< HEAD
 
 theme_set(theme_gray(base_size=12, base_family="HiraKakuProN-W3"))
+=======
+>>>>>>> f4224f4e33bd72676dc3c760407e8567faa7d9ac
 
 ja_trains <- getKSJURL("N02", fiscalyear=2018) %>%
   select(zipFileUrl) %>%
@@ -32,7 +35,11 @@ ja_lines %>%
 
 jr_colours <- c("JR九州"="#ff0200", "JR北海道"="#2cb431",
                 "JR四国"="#1ba5ca", "JR東日本"="#0b8e0f",
+<<<<<<< HEAD
                 "JR東海"="#f77421", "JR西日本"="#0173ca")
 # brewer.pal(n = 6, name = "Dark2")
 # display.brewer.pal(n = 6, name = "Dark2")
 
+=======
+                "JR東海"="#f77421", "JR西日本"="#0173ca")
+>>>>>>> f4224f4e33bd72676dc3c760407e8567faa7d9ac
