@@ -1,0 +1,174 @@
+station_name,station_en,position,distance
+アクセス成田第１,Narita Airport Terminal 1,0,52.6
+アクセス成田第２,Narita Airport Terminal 2·3,0,51.6
+成田湯川,Narita-yukawa,0,41.9
+芝山千代田,Shibayama-chiyoda,0,59
+東成田,Higashi-Narita,0,56.8
+本線成田第１,Narita Airport Terminal 1,1,57.8
+本線成田第２,Narita Airport Terminal 2·3,1,56.8
+京成成田,Keisei Narita,1,49.7
+公津の杜,Kōzunomori,1,47.1
+宗吾参道,Sōgosandō,1,45.5
+京成酒々井,Keisei Shisui,1,43.5
+大佐倉,Ōsakura,1,41.5
+京成佐倉,Keisei Sakura,1,39.5
+京成臼井,Keisei Usui,1,34.2
+ユーカリが丘,Yūkarigaoka,1,31.7
+志津,Shizu,1,30.6
+勝田台,Katsutadai,1,28.8
+京成大和田,Keisei Ōwada,1,27.2
+八千代台,Yachiyodai,1,25.1
+実籾,Mimomi,1,22.5
+京成大久保,Keisei Ōkubo,1,20.6
+京成津田沼,Keisei Tsudanuma,1,18.2
+谷津,Yatsu,1,16.7
+船橋競馬場,Funabashi-keibajō,1,15.7
+大神宮下,Daijingūshita,1,14.9
+京成船橋,Keisei Funabashi,1,13.6
+海神,Kaijin,1,12.1
+京成西船,Keisei Nishifuna,1,10.7
+東中山,Higashi-nakayama,1,10.1
+京成中山,Keisei Nakayama,1,9.3
+鬼越,Onigoe,1,8.6
+京成八幡,Keisei Yawata,1,7.6
+菅野,Sugano,1,6.7
+市川真間,Ichikawamama,1,5.8
+国府台,Kōnodai,1,4.9
+江戸川,Edogawa,1,4.2
+京成小岩,Keisei Koiwa,1,3
+京成高砂,Keisei Takasago,1,1.2
+青砥,Aoto,1,0
+お花茶屋,Ohanajaya,1,-1.6
+堀切菖蒲園,Horikirishōbuen,1,-2.7
+京成関屋,Keisei Sekiya,1,-4.2
+千住大橋,Senjuōhashi,1,-5.6
+町屋,Machiya,1,-7.2
+新三河島,Shin-mikawashima,1,-8.1
+日暮里,Nippori,1,-9.4
+京成上野,Keisei Ueno,1,-11.5
+ちはら台,Chiharadai,-1,42
+おゆみ野,Oyumino,-1,39.9
+学園前,Gakuemmae,-1,38.4
+大森台,Ōmoridai,-1,35.3
+千葉寺,Chibadera,-1,33.6
+千葉中央,Chiba-chūō,-1,31.1
+京成千葉,Keisei Chiba,-1,30.5
+新千葉,Shin-chiba,-1,29.9
+西登戸,Nishi-nobuto,-1,29.1
+みどり台,Midoridai,-1,28.1
+京成稲毛,Keisei Inage,-1,26.3
+検見川,Kemigawa,-1,23.5
+京成幕張,Keisei Makuhari,-1,22.2
+京成幕張本郷,Keisei Makuhari-hongō,-1,20.3
+京成金町,Keisei Kanamachi,-1,3.7
+柴又,Shibamata,-1,2.2
+印旛日本医大,Inba-nihon-idai,0,33.5
+印西牧の原,Inzai-makinohara,0,29.7
+千葉ニュータウン中央,Chiba New Town-chūō,0,25
+小室,Komuro,0,21
+白井,Shiroi,0,19
+西白井,Nishi-shiroi,0,17
+新鎌ケ谷,Shin-kamagaya,0,13.9
+大町,Ōmachi,0,11.6
+松飛台,Matsuhidai,0,10.1
+東松戸,Higashi-matsudo,0,8.7
+秋山,Akiyama,0,7.4
+北国分,Kita-kokubun,0,5.9
+矢切,Yagiri,0,4.4
+新柴又,Shin-shibamata,0,2.5
+京成立石,Keisei Tateishi,0,-1.1
+四ツ木,Yotsugi,0,-2.6
+八広,Yahiro,0,-3.3
+京成曳舟,Keisei Hikifune,0,-4.6
+押上,Oshiage,0,-5.7
+本所吾妻橋,Honjō-azumabashi,0,-6.5
+浅草,Asakusa,0,-7.2
+蔵前,Kuramae,0,-8.1
+浅草橋,Asakusabashi,0,-8.8
+東日本橋,Higashi-nihombashi,0,-9.5
+人形町,Ningyōchō,0,-10.2
+日本橋,Nihombashi,0,-11
+宝町,Takarachō,0,-11.8
+東銀座,Higashi-ginza,0,-12.6
+新橋,Shimbashi,0,-13.5
+大門,Daimon,0,-14.5
+三田,Mita,0,-16
+泉岳寺,Sengakuji,0,-17.1
+高輪台,Takanawadai,-1,-18.5
+五反田,Gotanda,-1,-19.2
+戸越,Togoshi,-1,-20.8
+中延,Nakanobu,-1,-21.9
+馬込,Magome,-1,-22.8
+西馬込,Nishi-magome,-1,-24
+品川,Shinagawa,0,-18.3
+北品川,Kitashinagawa,0,-19
+新馬場,Shimbamba,0,-19.7
+青物横丁,Aomono-yokochō,0,-20.5
+鮫洲,Samezu,0,-21
+立会川,Tachiaigawa,0,-21.8
+大森海岸,Ōmorikaigan,0,-23.1
+平和島,Heiwajima,0,-24
+大森町,Ōmorimachi,0,-24.8
+梅屋敷,Umeyashiki,0,-25.5
+京急蒲田,Keikyū Kamata,0,-26.3
+雑色,Zōshiki,1,-27.7
+六郷土手,Rokugōdote,1,-28.9
+京急川崎,Keikyū Kawasaki,1,-30.1
+八丁畷,Hatchō-nawate,1,-31.4
+鶴見市場,Tsurumi-ichiba,1,-32.1
+京急鶴見,Keikyū Tsurumi,1,-33.6
+花月総持寺,Kagetsu-sōjiji,1,-34.4
+生麦,Namamugi,1,-35.2
+京急新子安,Keikyū Shinkoyasu,1,-36.6
+子安,Koyasu,1,-37.6
+神奈川新町,Kanagawa-shimmachi,1,-38.3
+京急東神奈川,Keikyū Higashi-kanagawa,1,-38.8
+神奈川,Kanagawa,1,-39.8
+横浜,Yokohama,1,-40.5
+戸部,Tobe,1,-41.7
+日ノ出町,Hinodechō,1,-43.1
+黄金町,Koganechō,1,-43.9
+南太田,Minamiōta,1,-44.8
+井土ケ谷,Idogaya,1,-46
+弘明寺,Gumyōji,1,-47.4
+上大岡,Kamiōoka,1,-49.1
+屏風浦,Byōbugaura,1,-51.3
+杉田,Sugita,1,-52.6
+京急富岡,Keikyū Tomioka,1,-55
+能見台,Nōkendai,1,-55.7
+金沢文庫,Kanazawa-bunko,1,-57.8
+金沢八景,Kanazawa-hakkei,1,-59.2
+追浜,Oppama,1,-61.1
+京急田浦,Keikyū Taura,1,-62.8
+安針塚,Anjinzuka,1,-65.4
+逸見,Hemi,1,-66.4
+汐入,Shioiri,1,-67.5
+横須賀中央,Yokosuka-chūō,1,-68.2
+県立大学,Kenritsudaigaku,1,-69.4
+堀ノ内,Horinouchi,1,-70.6
+新大津,Shin-ōtsu,1,-71.4
+北久里浜,Kitakurihama,1,-72.3
+京急久里浜,Keikyū Kurihama,1,-75.1
+ＹＲＰ野比,YRP Nobi,1,-77.8
+京急長沢,Keikyū Nagasawa,1,-79.1
+津久井浜,Tsukuihama,1,-80.3
+三浦海岸,Miurakaigan,1,-81.8
+三崎口,Misakiguchi,1,-84
+糀谷,Kōjiya,0,-27.2
+大鳥居,Ōtorii,0,-28.2
+穴守稲荷,Anamori-inari,0,-28.9
+天空橋,Tenkūbashi,0,-29.6
+羽田第３,Haneda Airport Terminal 3,0,-30.8
+羽田第１,Haneda Airport Terminal 1·2,0,-32.8
+六浦,Mutsuura,0,-60.5
+神武寺,Jimmuji,0,-63.3
+逗子・葉山,Zushi-Hayama,0,-65.1
+京急大津,Keikyū Ōtsu,0,-71.4
+馬堀海岸,Maborikaigan,0,-72.5
+浦賀,Uraga,0,-73.8
+港町,Minatochō,-1,-31.3
+鈴木町,Suzukichō,-1,-32.1
+川崎大師,Kawasaki-daishi,-1,-32.6
+東門前,Higashi-monzen,-1,-33.3
+大師橋,Daishibashi,-1,-33.9
+小島新田,Kojimashinden,-1,-34.6
